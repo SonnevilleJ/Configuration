@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/SonnevilleJ/Configuration/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/SonnevilleJ/Configuration/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A utility library for application configuration</description>
+    <copyright>Copyright 2016 John Sonneville</copyright>
+    <tags></tags>
+  </metadata>
+</package>
